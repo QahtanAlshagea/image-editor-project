@@ -1,0 +1,14 @@
+[
+  {"id": "studio-white", "name": "استوديو أبيض", "name_en": "Studio White", "category": "استوديو"},
+  {"id": "studio-black", "name": "استوديو أسود", "name_en": "Studio Black", "category": "استوديو"},
+  {"id": "studio-gray", "name": "استوديو رمادي متدرج", "name_en": "Studio Gray Gradient", "category": "استوديو"},
+  {"id": "soft-pink", "name": "تدرج وردي ناعم", "name_en": "Soft Pink", "category": "منتجات"},
+  {"id": "soft-blue", "name": "تدرج أزرق ناعم", "name_en": "Soft Blue", "category": "منتجات"},
+  {"id": "warm-sunset", "name": "غروب دافئ", "name_en": "Warm Sunset", "category": "إبداعي"},
+  {"id": "mint-fresh", "name": "نعناعي منعش", "name_en": "Mint Fresh", "category": "منتجات"},
+  {"id": "spotlight-dark", "name": "إضاءة مسرحية داكنة", "name_en": "Dark Spotlight", "category": "إبداعي"},
+  {"id": "marble", "name": "رخام فاتح", "name_en": "Light Marble", "category": "منتجات"},
+  {"id": "wood-desk", "name": "خشب داكن", "name_en": "Dark Wood", "category": "منتجات"},
+  {"id": "paper-texture", "name": "ورق كرافت", "name_en": "Kraft Paper", "category": "منتجات"},
+  {"id": "purple-glow", "name": "توهج بنفسجي", "name_en": "Purple Glow", "category": "إبداعي"}
+]
