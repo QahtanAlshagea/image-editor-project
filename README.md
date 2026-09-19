@@ -215,6 +215,6 @@ image-editor-project/
 ---
 
 <div align="center">
-  <b>صنع بكل شغف وإتقان بواسطة قحطان الشجاع ❤️</b><br>
+  <b>صنع بكل شغف وإتقان بواسطة قحطان الشاجع   محمد العيدروس أحمد ياسين العماري  ❤️</b><br>
   <sub>Lumen Studio © 2026 — All rights reserved.</sub>
 </div>
